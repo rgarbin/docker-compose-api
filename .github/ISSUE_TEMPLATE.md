@@ -19,6 +19,12 @@
 - Ruby version: [Add ruby version here]
 - Docker-compose-api gem version: [Add docker-compose-api gem version here]
 
+## Docker-compose File
+
+```text
+[Paste docker-compose file here]
+```
+
 ## Full backtrace
 
 ```text
